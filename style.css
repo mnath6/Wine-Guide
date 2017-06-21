@@ -31,12 +31,12 @@ p.options {
    margin: auto;
    margin-top: 40px;
    margin-left: 50px;
-   margin-right: 50px;
+   margin-right: 100px;
    padding: 10px;
    width: 200px;
 }
 
 p.menusomething a>img
-{   margin-top:50px;
+{  margin-top:50px;
    margin-bottom: 50px;   
 }
