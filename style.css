@@ -2,20 +2,17 @@ body {
     background-color: #F5F5DC;
 }
 
-title {
-      font-family: 'Dancing Script';font-size: 40px;
-      color: black
-      text-align= center;
-       
 
 h1 {
-    color: #000000;
+    font-family: 'Dancing Script';font-size: 40px;
+    color: black;
     text-align: center;
 }
 
 p {
     font-family: 'Dancing Script';font-size: 22px;
-    color: black
+    color: black;
+    text-align=center;
 }
 
 a { 
@@ -30,10 +27,3 @@ th, td {
     padding: 15px;
 }    
    
-a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-    text-decoration: none;
-    color: black;
-}
