@@ -30,9 +30,9 @@ th, td {
 
 #options {   
     width: 540px;
-    margin-top:90px;
-    margin-left: 20px; 
-    margin-right:20px;
+    margin-top:80px;
+    margin-left: 10px; 
+    margin-right:10px;
 
      text-align: justify;
     -ms-text-justify: distribute-all-lines;
@@ -45,7 +45,7 @@ th, td {
     zoom: 1;
 }
 .stretch {
-    width: 80%;
+    width: 50%;
     display: inline-block;
     font-size: 0;
     line-height: 0
