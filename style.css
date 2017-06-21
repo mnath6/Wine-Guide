@@ -26,21 +26,7 @@ table, th, td {
 th, td {
     padding: 15px;
 }    
-   
-p.options {
-   margin: auto;
-   margin-top: 80px;
-   margin-left: 100px;
-   margin-right: 100px;
-   padding: 10px;
-   width: 300px;
-}
-
-p.menusomething a>img
-{  margin-right:50px;
-   margin-left: 50px;   
-   margin-center: 50px;
-}
+  
 
 #p.options {   
     width: 540px;
