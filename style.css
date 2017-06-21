@@ -28,12 +28,13 @@ th, td {
 }    
   
 p.options a>img { 
-    background-color: #F5F5DC;
-    display:inline-block;
-    margin:500px 20px;
-    padding:5px;
-    
-    border:1px solid #CCC;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 500px;
+   height: 500px;
+   margin-top: -250px; /* Half the height */
+   margin-left: -250px; /* Half the width */;
 }
     
 
