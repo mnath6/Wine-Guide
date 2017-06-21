@@ -29,10 +29,10 @@ th, td {
   
 
 #p.options {   
-    width: 540px;
+    width: 800px;
     margin-top:90px;
-    margin-left: auto; 
-    margin-right: auto;
+    margin-left: 80px; 
+    margin-right: 80px;
 
      text-align: justify;
     -ms-text-justify: distribute-all-lines;
@@ -45,7 +45,7 @@ th, td {
     zoom: 1;
 }
 .stretch {
-    width: 100%;
+    width: 300%;
     display: inline-block;
     font-size: 0;
     line-height: 0
