@@ -4,15 +4,15 @@ body {
 
 
 h1 {
-    font-family: 'Dancing Script';font-size: 40px;
+    font-family: 'Dancing Script';font-size: 50px;
     color: black;
     text-align: center;
 }
 
 p {
-    font-family: 'Dancing Script';font-size: 22px;
+    font-family: 'Dancing Script';font-size: 30px;
     color: black;
-    text-align=center;
+    text-align: center;
 }
 
 a { 
