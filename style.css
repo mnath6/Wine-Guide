@@ -45,7 +45,7 @@ th, td {
     zoom: 1;
 }
 .stretch {
-    width: 100%;
+    width: 80%;
     display: inline-block;
     font-size: 0;
     line-height: 0
