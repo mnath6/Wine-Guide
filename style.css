@@ -28,25 +28,26 @@ th, td {
 }    
   
 
-#p.options {   
-    width: 800px;
+#options {   
+    width: 540px;
     margin-top:90px;
-    margin-left: 80px; 
-    margin-right: 80px;
+    margin-left: auto; 
+    margin-right: auto;
 
      text-align: justify;
     -ms-text-justify: distribute-all-lines;
     text-justify: distribute-all-lines;
 }
-#p.options a>img {
+#options a {
     vertical-align: top;
     display: inline-block;
     *display: inline;
     zoom: 1;
 }
 .stretch {
-    width: 300%;
+    width: 100%;
     display: inline-block;
     font-size: 0;
     line-height: 0
 }
+
