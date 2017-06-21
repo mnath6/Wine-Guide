@@ -27,5 +27,9 @@ th, td {
     padding: 15px;
 }    
   
-
+p.options a>img { 
+    background-color: #F5F5DC;
+    display:inline-block;
+}
+    
 
