@@ -2,6 +2,12 @@ body {
     background-color: #F5F5DC;
 }
 
+title {
+      font-family: 'Dancing Script';font-size: 40px;
+      color: black
+      text-align= center;
+       
+
 h1 {
     color: #000000;
     text-align: center;
@@ -28,7 +34,6 @@ a.button {
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
-
     text-decoration: none;
     color: black;
 }
