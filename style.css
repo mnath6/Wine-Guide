@@ -27,7 +27,7 @@ th, td {
     padding: 15px;
 }    
   
-p.options a>img { 
+p.options{ 
    position: absolute;
    top: 50%;
    left: 50%;
