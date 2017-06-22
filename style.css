@@ -22,6 +22,7 @@ a {
  th {
     display: table-cell;
     vertical-align: inherit;
+    margin: 0px auto;
     font-weight: bold;
     font-family: 'Dancing Script';
     font-size: 30px;
@@ -32,6 +33,7 @@ a {
 td {
     display: table-cell;
     vertical-align: inherit;
+    margin: 0px auto;
     color:black;
     font-family: 'Dancing Script';
     font-size: 26px;
