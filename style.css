@@ -31,9 +31,7 @@ a {
 }
 td {
     display: table-cell;
-    position:absolute;
-    top:50%;
-    left:50%; 
+    vertical-align: inherit;
     color:black;
     font-family: 'Dancing Script';
     font-size: 26px;
