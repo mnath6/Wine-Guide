@@ -26,12 +26,13 @@ a {
     font-family: 'Dancing Script';
     font-size: 26px;
     text-align: center;
+    color:black;
      
 }
 td {
     display: table-cell;
     vertical-align: inherit;
-    font-weight: bold;
+    color:black;
     font-family: 'Dancing Script';
     font-size: 26px;
     text-align: center;
