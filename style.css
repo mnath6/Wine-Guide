@@ -33,7 +33,7 @@ a {
 td {
     display: table-cell;
     vertical-align: inherit;
-    margin: 0px auto;
+    margin: auto;
     color:black;
     font-family: 'Dancing Script';
     font-size: 26px;
@@ -61,8 +61,7 @@ input:focus, textarea:focus {
 }
 button {
     background-color: #FAEBD7; 
-    position:absolute;
-    bottom:0;
+    margin: auto;
     border: none;
     color: black;
     padding: 15px 32px;
