@@ -57,7 +57,7 @@ input:focus, textarea:focus {
   outline: 0;
   border-color: black;
 }
-.button {
+button {
     background-color: #FAEBD7; 
     border: none;
     color: white;
@@ -67,7 +67,7 @@ input:focus, textarea:focus {
     display: inline-block;
     font-size: 16px;
     font-family:'Dancing Script';
-    margin: 4px 2px;
-     cursor: url(images/glasses.jpg), auto;
+    margin: 8px 8px;
+    cursor: url(images/glasses.jpg), auto;
     border-style: outset;
 }
