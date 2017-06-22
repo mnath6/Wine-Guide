@@ -59,6 +59,8 @@ input:focus, textarea:focus {
 }
 button {
     background-color: #FAEBD7; 
+    style="float:center"
+    align="middle"
     border: none;
     color: black;
     padding: 15px 32px;
