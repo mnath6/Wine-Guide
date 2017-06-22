@@ -19,13 +19,22 @@ a {
     font-family: 'Dancing Script';font-size: 22px;
     color: black 
 }
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
+ th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    font-family: 'Dancing Script';
+    font-size: 26px;
+    text-align: center;
+     
 }
-th, td {
-    padding: 15px;
-}    
-  
+td {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    font-family: 'Dancing Script';
+    font-size: 26px;
+    text-align: center;
+}
 
 
